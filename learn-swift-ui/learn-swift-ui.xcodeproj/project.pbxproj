@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		DADB620F24C7DD99009BBD65 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADB620E24C7DD99009BBD65 /* PostCell.swift */; };
 		DADB621124C7E177009BBD65 /* PostVIPBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADB621024C7E177009BBD65 /* PostVIPBadge.swift */; };
+		DADB621324C7E21E009BBD65 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = DADB621224C7E21E009BBD65 /* Post.swift */; };
 		DAF57DE524C7DA3100D6F5C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF57DE424C7DA3100D6F5C4 /* AppDelegate.swift */; };
 		DAF57DE724C7DA3100D6F5C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF57DE624C7DA3100D6F5C4 /* SceneDelegate.swift */; };
 		DAF57DE924C7DA3100D6F5C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF57DE824C7DA3100D6F5C4 /* ContentView.swift */; };
@@ -103,6 +104,7 @@
 /* Begin PBXFileReference section */
 		DADB620E24C7DD99009BBD65 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		DADB621024C7E177009BBD65 /* PostVIPBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostVIPBadge.swift; sourceTree = "<group>"; };
+		DADB621224C7E21E009BBD65 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		DAF57DE124C7DA3100D6F5C4 /* learn-swift-ui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "learn-swift-ui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAF57DE424C7DA3100D6F5C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAF57DE624C7DA3100D6F5C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -230,6 +232,7 @@
 				DAF57DE624C7DA3100D6F5C4 /* SceneDelegate.swift */,
 				DAF57DE824C7DA3100D6F5C4 /* ContentView.swift */,
 				DADB620E24C7DD99009BBD65 /* PostCell.swift */,
+				DADB621224C7E21E009BBD65 /* Post.swift */,
 				DADB621024C7E177009BBD65 /* PostVIPBadge.swift */,
 				DAF57DEA24C7DA3200D6F5C4 /* Assets.xcassets */,
 				DAF57DEF24C7DA3200D6F5C4 /* LaunchScreen.storyboard */,
@@ -495,6 +498,7 @@
 				DAF57DE524C7DA3100D6F5C4 /* AppDelegate.swift in Sources */,
 				DAF57DE724C7DA3100D6F5C4 /* SceneDelegate.swift in Sources */,
 				DAF57DE924C7DA3100D6F5C4 /* ContentView.swift in Sources */,
+				DADB621324C7E21E009BBD65 /* Post.swift in Sources */,
 				DADB620F24C7DD99009BBD65 /* PostCell.swift in Sources */,
 				DADB621124C7E177009BBD65 /* PostVIPBadge.swift in Sources */,
 			);
